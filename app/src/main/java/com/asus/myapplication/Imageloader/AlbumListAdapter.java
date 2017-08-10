@@ -12,7 +12,7 @@ import com.asus.myapplication.R;
 import java.util.List;
 
 /**
- * Created by Administrator on 2016/8/25.
+ * Created by Administrator on 2017/7/21.
  */
 public class AlbumListAdapter extends BaseAdapter {
     private List<AlbumBean> list;
